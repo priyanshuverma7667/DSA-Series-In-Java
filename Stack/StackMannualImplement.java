@@ -8,9 +8,11 @@ public class StackMannualImplement {
     stck.push(20);
     stck.push(30);
     stck.push(40);
-    stck.push(50);
+    stck.push(50); 
+    // stck.push(56);
+    
+    System.out.println(stck.pop());
 
-    // stck.pop();
     // stck.peek();
 
     
